@@ -1,0 +1,468 @@
+/*
+***********************************************
+****************CSS RESET**********************
+***********************************************
+*/
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+}
+
+h6 {
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: normal;
+    color: #333333;
+}
+
+
+/*
+***********************************************
+************************************************/
+
+
+
+
+li {
+
+
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.header-1 {
+    padding: 10px 0px;
+    max-width: 1220px;
+    margin: auto;
+}
+
+.header-2 {
+    padding: 34px 0px 36px;
+    max-width: 1220px;
+    margin: auto;
+}
+
+.header-2-left {
+    margin-left: 20px;
+}
+
+
+.header-2-right-list > li {
+    padding: 10px 15px;
+}
+
+.header-1-div {
+    background-color: #EDEDED;
+}
+
+.header-1-list > li {
+    font-size: 12px;
+    margin: auto 10px;
+}
+
+.hero-section {
+    width: 100%;
+}
+
+.hero-img-banner-2-div {
+    width: 100%;
+}
+
+.hero-img-banner-2 {
+    width: -webkit-fill-available;
+}
+
+.hero-img-banner-1 {
+    width: 100%;
+}
+
+/*
+.hero-img-banner-1-div {
+    height: 100%;
+    background-image: url(../img/iphone%20hero%20banner.png);
+    width: 100%;
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+*/
+
+.hero-section-2-div {
+    max-width: 1180px;
+    margin: auto;
+}
+
+
+.guarantee-div {
+    max-width: 285px;
+    text-align: center;
+    margin-right: 50px;
+}
+
+.delivery-div {
+    max-width: 285px;
+    text-align: center;
+    margin-right: 50px;
+}
+
+.credit-card-div {
+    max-width: 285px;
+    text-align: center;
+}
+
+.methods-div {
+    padding: 0px 20px;
+}
+
+.featured-product-lists-1 {
+    max-width: 1140px;
+    padding: 0px 20px;
+    margin: auto;
+    display: flex;
+}
+
+.featured-product-card {
+    padding: 15px;
+    border: 1px solid #ebebeb;
+    margin: 0px 8px 20px 8px;
+}
+
+.featured-product-img-div {
+    margin-bottom: 20px;
+}
+
+.featured-product-lists-2 {
+    max-width: 1180px;
+    margin: auto;
+}
+
+.featured-product-2-1-div {
+    margin: 0 0 20px;
+
+}
+
+.featured-product-2-2-div {
+    margin: 0 0 20px;
+    padding: 0 0 0 20px;
+}
+
+.featured-product-list-2-div {
+    padding: 0 25px;
+}
+
+.featured-product-section {
+    max-width: 1180px;
+    margin: auto;
+}
+
+.top-new-arrivals-section-div {
+    max-width: 1140px;
+    margin: auto;
+    padding: 0px 20px;
+}
+
+.new-arrival-sub-img {
+    max-width: 85%;
+}
+
+.blog-card-img {
+    max-width: 380px;
+    height: auto;
+}
+
+.blog-section-div {
+    max-width: 1140px;
+    margin: auto;
+    padding: 0px 20px;
+
+}
+
+.blog-section {
+    margin-top: 60px;
+}
+
+.footer-section-div {
+    max-width: 1180px;
+    margin: auto;
+    padding: 0px 20px;
+}
+
+.footer-flex-1-heading-div {
+    padding: 5px;
+    border-left: 3px solid #f9ba48;
+    margin-bottom: 20px;
+}
+
+.footer-flex-1-heading {
+    font-size: 15px;
+    color: #151515;
+    line-height: 21px;
+    margin-left: 5px;
+}
+
+.footer-list {
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 13px;
+    line-height: 18.85px;
+    color: #808080
+}
+
+.footer-list:hover {
+    color: #F9BA48;
+    cursor: pointer;
+}
+
+.footer-list-ul {
+    display: grid;
+}
+
+.email-icon-footer {
+    font-size: 14px;
+    color: #F9BA48;
+    font-weight: 400;
+}
+
+
+
+.footer-input-email {
+    color: #6b6b6b;
+    background: #e8e8e8;
+    font-size: 14px;
+    font-style: normal;
+    border: 1px solid #1c1d1d;
+    max-width: 100%;
+    padding: 8px 10px;
+    border-radius: 0;
+    line-height: 1.563;
+    border-color: transparent;
+}
+
+.footer-input-email-div {
+    color: #6b6b6b;
+    background: #e8e8e8;
+    font-size: 14px;
+    font-style: normal;
+    border: 1px solid #1c1d1d;
+    max-width: 100%;
+
+    border-radius: 0;
+    line-height: 1.563;
+    border-color: transparent;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-newsletter-btn {
+    color: #f9ba48;
+    border: none;
+    background: none;
+
+    padding: 0 15px;
+    line-height: 39px;
+    height: 39px;
+}
+
+.span-btn-footer {
+    float: right;
+
+}
+
+.footer-social-icons {
+    width: auto;
+    background: none;
+    font-size: 25px;
+    margin-right: 15px;
+    opacity: .5;
+    color: #808080;
+    line-height: 40px;
+
+}
+
+.footer-social-icons:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.footer-bottom {
+    background: #282828;
+    overflow: hidden;
+    padding-top: 20px;
+    margin: 0;
+    padding-bottom: 20px;
+    color: #b7b7b7;
+}
+
+.footer-bottom-content-div-flex {
+    max-width: 1180px;
+    margin: auto;
+    padding: 0px 20px;
+}
+
+.footer-bottom-p {
+    color: #808080;
+    font-size: 13px;
+    line-height: 18.85px;
+
+}
+
+.footer-copyright-icon {
+    color: #b7b7b7;
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0 0 0 10px;
+}

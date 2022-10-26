@@ -1,0 +1,242 @@
+.bg-light-grey {
+    background-color: #EDEDED;
+}
+
+.mr-auto {
+    margin: auto;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.ml-20 {
+    margin-left: 20px;
+
+}
+
+.mr-20 {
+    margin-right: 20px;
+}
+
+
+.justify-sb {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+
+.mt-60 {
+    margin-top: 60px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+
+.mb-60 {
+    margin-bottom: 60px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-100 {
+    margin-bottom: 100px;
+}
+
+.align-center {
+    align-self: center;
+}
+
+
+.mr-ml-10 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.pos-ab {
+    position: absolute;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.mb-60 {
+    margin-bottom: 60px;
+}
+
+.pl-25 {
+    padding-left: 25px;
+}
+
+.max-578 {
+    max-width: 578px;
+}
+
+.tac {
+    text-align: center;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.max-width-1180px {
+    max-width: 1180px;
+}
+
+.ff-poppins-400 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.ff-poppins-600 {
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.lh-30 {
+    line-height: 30px;
+}
+
+.fs-10 {
+    font-size: 10px;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-13 {
+    font-size: 13px;
+}
+
+
+.fs-26 {
+    font-size: 26px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.lh-14 {
+    line-height: 14px;
+}
+
+.lh-17 {
+    line-height: 17.4px;
+}
+
+.lh-18 {
+    line-height: 18px;
+}
+
+.lh-20 {
+    line-height: 20.3px;
+}
+
+.lh-22 {
+    line-height: 22px;
+}
+
+.lh-23 {
+    line-height: 23px;
+}
+
+.lh-24 {
+    line-height: 24px;
+}
+
+.dg-color {
+    color: #2b3743;
+}
+
+.p-color {
+    color: #505050;
+}
+
+.star-color {
+    color: #F1B400;
+}
+
+.max-286 {
+    max-width: 286px;
+}
+
+.max-380 {
+    max-width: 380px;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.mr-auto {
+    margin-right: auto;
+}
+
+.dg-2 {
+    color: #8B8B8B;
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.mr-100 {
+    margin-right: 100px;
+}
+
+.mb-150 {
+    margin-bottom: 150px;
+}
+
+.flex-25 {
+    flex: 25%;
+}
+
+.hover-color {
+    color: #f9ba48;
+}
+
+.width-100 {
+    width: 100%;
+}

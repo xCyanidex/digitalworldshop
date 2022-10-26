@@ -1,0 +1,88 @@
+@media(max-width:768px) {
+    .methods-div {
+        flex-direction: column;
+    }
+
+    .guarantee-div {
+        margin-bottom: 60px;
+        align-self: center;
+        margin-right: 0px;
+    }
+
+    .delivery-div {
+        margin-bottom: 60px;
+        align-self: center;
+        margin-right: 0px;
+    }
+
+    .credit-card-div {
+        align-self: center;
+    }
+
+    .featured-product-lists-1 {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .featured-product-card {
+        padding: 38px;
+        margin: 0px 8px 20px 8px;
+    }
+
+    .featured-product-list-2-div {
+        padding: 0 25px;
+    }
+
+    .featured-product-lists-1 {}
+
+    .new-arrival-flex-1 {
+        flex-direction: column;
+    }
+
+    .new-arrival-small-flex-1 {
+        flex-direction: column;
+    }
+
+    .new-arrival-small-flex-2 {
+        flex-direction: column;
+    }
+
+    .new-arrival-sub-img-div {
+        text-align: center;
+    }
+
+    .new-arrival-flex-2 {
+        max-width: 100%;
+    }
+
+    .new-arrival-flex-1-reverse {
+        flex-direction: column-reverse;
+    }
+
+    .blog-card-flex-child-div {
+        margin-right: 0px;
+        margin-bottom: 150px;
+    }
+
+    .footer-flex-1 {
+        flex-direction: column;
+    }
+
+    .footer-input-email {
+        width: 80%;
+    }
+
+    .footer-bottom-content-div-flex {
+        flex-direction: column;
+    }
+
+    .footer-bottom-content-div {
+        margin-bottom: 10px;
+        align-self: center;
+    }
+
+    .footer-copyright-icon-div {
+        align-self: center;
+    }
+
+}
